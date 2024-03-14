@@ -57,7 +57,7 @@ Resources:
 
 - [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
 - [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
-- [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup>
+- [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup> Animation Learning
 - [Learn Git & GitHub on CodeAcademy](https://www.codecademy.com/learn/learn-git) <sup>FREE</sup>
 - [Git Command Explorer](https://gitexplorer.com/) <sup>FREE</sup>
 - [Git Immersion](https://gitimmersion.com/index.html) <sup>FREE</sup>
